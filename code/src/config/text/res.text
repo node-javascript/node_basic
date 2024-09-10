@@ -1,0 +1,10 @@
+res.download  파일을 내려받습니다.
+res.end 응답 프로세스를 종료합니다.
+res.json JSON 응답을 전송
+res.jsonp JSONP 지원을 통해 JSON 응답을 전송
+res.redirect 요청 경로를 재지정해서 강제 이동
+res.render 뷰 템플릿을 화면에 렌더링
+res.send 어떤 유형이든 괄호 안의 내용을 전송
+res.sendFile 지정한 경로의 파일을 읽어서 내용을 전송
+res.sendStatus 상태 메시지와 함께 HTTP 상태코드를 전송
+res.status 응답의상태 코드를 설정

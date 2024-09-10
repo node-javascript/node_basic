@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "es2016",
+    "module": "CommonJS",
+    "esModuleInterop": true,      // import 사용
+    "rootDir": "./src",
+    "outDir": "./src_build"    
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
+}
